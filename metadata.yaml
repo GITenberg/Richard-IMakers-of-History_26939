@@ -1,0 +1,33 @@
+_repo: Richard-IMakers-of-History_26939
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2008-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Kings and rulers -- Biography'
+- !lcc 'DA'
+- !lcsh 'Richard I, King of England, 1157-1199'
+title: 'Richard I
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/26939
